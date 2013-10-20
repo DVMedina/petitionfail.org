@@ -1,0 +1,12 @@
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-transition.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-alert.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-modal.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-dropdown.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-scrollspy.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-tab.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-tooltip.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-popover.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-button.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-collapse.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-carousel.js
+wget -c http://twitter.github.io/bootstrap/assets/js/bootstrap-typeahead.js
