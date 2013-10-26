@@ -39,7 +39,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
         <p>只要你在网络上看到相应的新闻，截图，或照片欢迎寄给我们。来信请寄到 petitionfail.org@gmail.com 。 或者在右边提交相关网址。</p>
 
-        <p>欢迎律师给予法律上的建议。</p>
+        <p>本站信息来源于网络，如有不实信息请来邮件要求删除。</p>
         <p>呼唤蝙蝠侠。</p>
     </div>
     </div>
