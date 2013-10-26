@@ -74,32 +74,13 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
   <h2>相关链接</h2>
   <div class="span12">
     <table class="table table-striped table-bordered  table-condensed">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
       <tbody>
         <tr>
           <td><a href="http://rmjdw11.com/" target="_blank"> 人民监督网 </a></td>
           <td><a href="http://wsxf.sh.gov.cn/" target="_blank"> 上海市网上信访 </a></td>
           <td><a href="http://www.gjxfj.gov.cn/" target="_blank"> 国家网上信访 </a></td>
           <td><a href="http://www.court.gov.mo/" target="_blank"> 澳門行政區法院官员财产公开查询 </a></td>
-          <td>..</td>
-          <td>..</td>
-          <td>..</td>
-          <td>..</td>
-          <td>..</td>
-          <td>..</td>
+          <td><a href="https://petitions.whitehouse.gov/" target="_blank"> 白宫请愿 </a></td>
         </tr>
       </tbody>
     </table>
